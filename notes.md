@@ -23,3 +23,13 @@ git commint -m "My commit message"
 show history
 
 git log
+
+
+To submit to git hub
+--------------------
+* first you have to create a new repostiory 
+* clone the file
+    git clone (copy link using ctrl shift insert)
+* push the code
+    git push
+
